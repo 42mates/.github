@@ -10,11 +10,11 @@ This organization is dedicated to hosting group projects from the 42 School curr
 
 Here are some of the projects we're working on:
 
+### [Webserv 🌐](https://github.com/42mates/webserv)
+A lightweight HTTP server implementation in C++, fully compliant with the HTTP/1.1 specification.
+
 ### [Minishell 🐚](https://github.com/42mates/minishell)
 A simple shell implementation inspired by Bash, featuring basic command execution, pipes, and redirection.
 
 ### [Cub3D 🕹️](https://github.com/42mates/cub3d)️
 A raycasting 3D game engine inspired by Wolfenstein 3D, built from scratch in C.
-
-### [Webserv 🌐](https://github.com/42mates/webserv)
-A lightweight HTTP server implementation in C++, fully compliant with the HTTP/1.1 specification.
