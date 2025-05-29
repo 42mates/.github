@@ -10,7 +10,7 @@ This organization is dedicated to hosting group projects from the 42 School curr
 
 Here are some of the projects we're working on:
 
-### [Transcendence 🏓](https://github.com/42mates/webserv)
+### [Transcendence 🏓](https://github.com/42mates/transcendence)
 A full-stack SPA featuring server-side Pong, real-time multiplayer, and REST/WebSocket APIs, all containerized with Docker.
 
 ### [Webserv 🌐](https://github.com/42mates/webserv)
